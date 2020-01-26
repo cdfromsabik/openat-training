@@ -1,4 +1,5 @@
 # openat-training
+
 Introduce OpenAT Framework development at Sabik Marine
 
 - [AirPrime Q2687](https://source.sierrawireless.com/devices/q-series/q2687/#sthash.UASnN7bJ.dpbs)  
@@ -6,6 +7,9 @@ Introduce OpenAT Framework development at Sabik Marine
 - [AirPrime SL8082BT](https://source.sierrawireless.com/devices/sl-series/sl8082bt/#sthash.G8gdrGkE.dpbs)  
   
 ## OpenAT Framework
+
+The different AirPrime device series have different firmware versions. Some of these versions are  There are different version of the framework.
+
 
 
 
@@ -17,3 +21,7 @@ or download [Developer Studio 3.6](https://source.sierrawireless.com/resources/a
 ### Required Packages
 
 ![Example](https://github.com/cdfromsabik/openat-training/blob/master/img/2_52_Packages.bmp)
+
+## References
+
+[AirPrime OpenAT Tutorial](https://source.sierrawireless.com/resources/airprime/training-and-tutorials/airprime---open-at-tutorial/#sthash.V8jnTEnX.dpbs)
