@@ -1,9 +1,10 @@
 # openat-training
 Introduce OpenAT Framework development at Sabik Marine
 
-[AirPrime Q2687](https://source.sierrawireless.com/devices/q-series/q2687/#sthash.UASnN7bJ.dpbs)
-[AirPrime SL8082BT](https://source.sierrawireless.com/devices/sl-series/sl8082bt/#sthash.G8gdrGkE.dpbs)
-
+- [AirPrime Q2687](https://source.sierrawireless.com/devices/q-series/q2687/#sthash.UASnN7bJ.dpbs)  
+- [AirPrime SL6087](https://source.sierrawireless.com/devices/sl-series/sl6087/#sthash.dJDe0jeE.dpbs)  
+- [AirPrime SL8082BT](https://source.sierrawireless.com/devices/sl-series/sl8082bt/#sthash.G8gdrGkE.dpbs)  
+  
 ## OpenAT Framework
 
 
@@ -14,3 +15,5 @@ For SL8082BT series modem, download OpenAT Application Framework 2.54.2 Full Ins
 or download [Developer Studio 3.6](https://source.sierrawireless.com/resources/airprime/software/open-at-application-framework/#sthash.51r519nn.dpbs) and install the OpenAT Framework 2.54.2 from the package manager inside the the developer studio.
 
 ### Required Packages
+
+![Example](https://github.com/cdfromsabik/openat-training/blob/master/img/2_52_Packages.bmp)
