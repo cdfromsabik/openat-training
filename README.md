@@ -1,4 +1,12 @@
-# openat-training
+# OpenAT Embedded Software
+
+OpenAT Embedded Software consists of a firmware, a real time operating system and a set of optional plug-ins, that extend the capabilities of the OS (e.g. internet plug-in).  
+The API of the OS represents a layer on top of the firmware. And the OpenAT application is build on top of the OS-API.  
+Firmware and OpenAT application are seperate binaries present in the embedded module memory.  
+
+
+The underlying OS is a multitasking operation system with real time capabilities (e.g. task priorities, message boxes).  
+
 
 Introduce OpenAT Framework development at Sabik Marine
 
